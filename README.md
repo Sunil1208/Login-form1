@@ -1,9 +1,8 @@
-/*
 # Login-form1
 
 Beautiful and Responsive login form
 
-**A simple and beautiful login form build using HTML, CSS, JavaScript and SVG elements**
+**A simple and beautiful login form build using HTML, CSS, JavaScript and SVG elements.**
 
 ## Screenshots
 
@@ -15,4 +14,4 @@ Beautiful and Responsive login form
 
 ![EnterInformation](/Resources/login2.png)
 
->                                               ~Sunil Kumar
+>                                   ~Sunil Kumar
